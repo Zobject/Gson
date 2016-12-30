@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/zobject/Desktop/Json/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/zobject/Desktop/Json/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_0fea26555576e279e786de5b1171911b7da6747e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zobject/Desktop/Xml/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/zobject/Desktop/Xml/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_1437813520692d119278a27fe2b6c16ef9a5d404/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zobject/Desktop/Xml/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/zobject/Desktop/Xml/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_2c11a19f603a871a9c5bbc14b298e66dffe45920/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zobject/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/zobject/Desktop/Xml/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_abf7d80e0c2de905544d0def16fa0ed8641a9117/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zobject/Desktop/Json/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/zobject/Desktop/Json/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_936877435193682ce4a64af1099699b2f0b159be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zobject/Desktop/Json/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/zobject/Desktop/Json/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_2a2fe169726d0ca42e17aaf8a88242ebc743889e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zobject/Desktop/Xml/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/zobject/Desktop/Xml/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_aee7658c7cafced215c29b340b8a48534b1ba519/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zobject/Desktop/Json/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/zobject/Desktop/Json/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_f483518e514012589d6eb098fd8c774eb54f7614/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zobject/Desktop/Xml/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/zobject/Desktop/Xml/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_a09ce0df364f6e0e039cb83418a76aa06a81f8d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zobject/Desktop/Json/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="924db9a727a3b4e0db41701ddc79e7658fa128bb">
+        <dex dex="/Users/zobject/Desktop/Json/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d2a39cff50b1f01c10568560f8c15a51bfff6a2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zobject/Desktop/Json/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ff08971f23aff07e57b63713d42bfbbbcc809c37">
+        <dex dex="/Users/zobject/Desktop/Json/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_36d656dcabe91c77700129473e02b6254a082dfc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zobject/Desktop/Json/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/zobject/Desktop/Json/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_0e08c9a485396b0423ab8125ffcbb1f8209b9b8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zobject/Desktop/Json/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/zobject/Desktop/Json/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_ba4248cdedfb9b68e1a3c6757b81384eb8b1c2e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zobject/Desktop/Json/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/zobject/Desktop/Json/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_45182344c23bf75cb6c66eccc2c2c3e209566c31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zobject/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.5.0/4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83/okhttp-3.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83">
+        <dex dex="/Users/zobject/Desktop/Xml/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.5.0_a29a454309c5eebfa3828a301a0bbebf0fdcccf9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zobject/Desktop/Json/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/zobject/Desktop/Json/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_54d784b13fe558973e58b810d68cd91e563cb562/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zobject/Desktop/Xml/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/zobject/Desktop/Xml/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_a23eb5265a35034da0227ae703922542b618b4fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zobject/Desktop/Json/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/zobject/Desktop/Json/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_c43c6b5ee60e78f984c6b8a3f1605ff802cfc46d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zobject/Desktop/Json/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/zobject/Desktop/Json/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_3bdb5749d296af71189aa53e5d6ccfed7ae79bb6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zobject/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/zobject/Desktop/Json/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.0_1c823abb0858e1569a48db6afe83f6fd95fd82d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zobject/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/zobject/Desktop/Xml/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.11.0_6c202c5b24077ebcc1aff5c1a18dd63db1deae23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zobject/Desktop/Xml/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/zobject/Desktop/Xml/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_ef6348a14b79cd8ba56e20994ba0cdaf2641463c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zobject/Desktop/Json/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/zobject/Desktop/Json/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_21bab628c73a3986b2b9b6c3a4b8350ec4711165/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zobject/Desktop/Xml/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/zobject/Desktop/Xml/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_e366c03ef20133c5c5e58a576b2b425a603cadb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zobject/Desktop/Xml/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/zobject/Desktop/Xml/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_39235496444e1be143a771b468499c8cd8e078d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zobject/Desktop/Json/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/zobject/Desktop/Json/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_507257a1a4890dd4780be3d9c35b2b44916539cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zobject/Desktop/Xml/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/zobject/Desktop/Xml/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_64570d83c24641fa9f5be064a516b0507d6e6a1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zobject/Desktop/Json/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/zobject/Desktop/Json/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_61ff38d260e7efe351c9e487910742c7386dab33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zobject/Desktop/Xml/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="35ee4134bd570145c5a0ac0e9b93e9a04594928c">
+        <dex dex="/Users/zobject/Desktop/Xml/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2a20033e2d319bb30efcd4cfb05772c07b7aa473/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zobject/Desktop/Xml/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/zobject/Desktop/Xml/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_df68c9e423368da7f79f72adf71c51b8d34d17c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zobject/Desktop/Xml/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/zobject/Desktop/Xml/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_b3ac492e63a68c2096fb38a6e6969024d9030ecd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zobject/Desktop/Xml/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/zobject/Desktop/Xml/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_a9b25ce422b48fe5c2e3e0c84bd2f0f3d8734682/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zobject/Desktop/Xml/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/zobject/Desktop/Xml/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_da00ef92cf2e537666d1fce74240d83e79e0fb45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zobject/Desktop/Xml/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/zobject/Desktop/Xml/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_3f656e70b735dee5174694b8e209155d3edd165f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zobject/Desktop/Xml/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5257d4f74ba087e494ccfdc44f761c8145e7b0a0">
+        <dex dex="/Users/zobject/Desktop/Xml/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ef5009c371375f6e64de593c699d8ad70ebade9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zobject/Desktop/Json/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/zobject/Desktop/Json/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_2eb353a4c7a7c9d0c5f445d03867df0da6e62a1e/classes.dex" />
+    </item>
+
+</items>
